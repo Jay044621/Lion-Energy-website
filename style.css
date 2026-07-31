@@ -24,7 +24,10 @@ a{
   text-decoration:none;
 }
 
-/* NAVBAR */
+/* ==========================================
+   NAVBAR
+========================================== */
+
 .navbar{
     width:100%;
     padding:25px 80px;
@@ -901,8 +904,8 @@ a{
 
 @media(max-width:768px){
 
-/* ==========================
-  MOBILE NAVBAR
+   /* ==========================
+   MOBILE NAVBAR
 ========================== */
 
 @media(max-width:768px){
@@ -1001,3 +1004,5 @@ a{
     grid-template-columns:1fr;
 }
 }
+}
+
